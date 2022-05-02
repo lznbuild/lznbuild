@@ -19,3 +19,23 @@
 <br>
 <br>
 <br>
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu) -->
+
+<br />
+
+hi, i'm lznbuild,i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   3 hrs 36 mins   █████████████▓░░░░░░░░░░░   54.50 %
+JavaScript   1 hr 42 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+```
+
